@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Home from "./components/HomePage";
 import QuizView from "./components/QuizView";
-import DeviceApplication from "./DeviceApplication";
+import DeviceApplication from "./Devicelication";
 import Header from "./components/Header";
 
 function App() {
